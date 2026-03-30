@@ -1,0 +1,10 @@
+/* estilo.scss */
+/* Importando uma fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap');
+
+/* Definindo as variáveis do Reveal.js */
+$font-family-sans-serif: 'Lato', sans-serif;
+$presentation-heading-font: 'Merriweather', serif;
+$body-bg: #1e1e1e; /* Cor de fundo customizada */
+$body-color: #f0f0f0; /* Cor do texto */
+$link-color: #42b9f5; /* Cor dos links */
