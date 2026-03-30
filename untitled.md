@@ -24,6 +24,7 @@ O *Hierarchical Taxonomy of Psychopathology* (HiTOP) propõe uma mudança de par
 * **Estrutura Dimensional e Hierárquica:** De sintomas a espectros.
 * **Evidência Quantitativa:** Baseado na covariação estatística observada.
 * **Modelo Descritivo:** Foca na estrutura, não na etiologia (causas).
+* aaaa
 
 ## O HiTOP é um Modelo "Livre de Teoria"?
 
